@@ -1,0 +1,20 @@
+/* hide avatars on main discussion page */
+#vanilla_discussions_index .ProfileLink img {
+	display: none;
+}
+
+/* tweak lists and list items */
+.Preview .Message ol, .MessageList .Message ol {
+	margin-left: 2em !important;
+	margin-bottom: -1.5em !important;
+}
+.Preview .Message ul, .MessageList .Message ul {
+	margin-left: 1.3em !important;
+	margin-bottom: -1.5em !important;
+}
+.Preview .Message ol li, .MessageList .Message ol li {
+	list-style-type: decimal-leading-zero !important;
+}
+.Preview .Message li, .MessageList .Message li {
+	padding-bottom: 0.25em;
+}
