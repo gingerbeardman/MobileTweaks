@@ -2,6 +2,11 @@
 
 Applies some small CSS tweaks to the standard Vanilla Mobile theme.
 
+## Changelog
+1.0.2, added list tweaks  
+1.0.1, search tweak has become Mobile Search plugin  
+1.0.0, initial release  
+
 ## Details
 See [http://vanillaforums.org/addon/mobiletweaks-plugin](http://vanillaforums.org/addon/mobiletweaks-plugin)
 
